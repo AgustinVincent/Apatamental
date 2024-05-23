@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631308384191",
+    "project_id": "apartment-manager-z7ubiq",
+    "storage_bucket": "apartment-manager-z7ubiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631308384191:android:dac0b633170bab4e84930a",
+        "android_client_info": {
+          "package_name": "com.flutter.ampmtmgr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO5vKJU2AU2oNW1z1BoI_Z77tZlupfTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
